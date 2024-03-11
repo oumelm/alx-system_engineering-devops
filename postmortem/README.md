@@ -12,11 +12,17 @@ Timeline:
 
 
 March 10, 2024, 3:00 PM (UTC): Issue detected through monitoring alerts indicating increased server response times.
+
 March 10, 2024, 3:15 PM (UTC): Engineers began investigating the issue, suspecting a potential database bottleneck.
+
 March 10, 2024, 4:30 PM (UTC): Misleading assumption led to focusing on network latency issues rather than database performance.
+
 March 10, 2024, 6:00 PM (UTC): Incident escalated to senior database administrators and system administrators for further investigation.
+
 March 10, 2024, 8:00 PM (UTC): Correct root cause identified as database server overload due to inefficient queries.
+
 March 11, 2024, 2:00 AM (UTC): Mitigation steps initiated to optimize database queries and scale up server resources.
+
 March 11, 2024, 8:00 AM (UTC): Services restored to normal operation after implementing performance optimizations.
 
 
